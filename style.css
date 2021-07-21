@@ -1,0 +1,15 @@
+h1{
+  font-size:50px;
+  background-color:lightpurple;
+}
+p{
+  font-size:25px;
+}
+a{
+  text-decoration: none;
+  color: blue;
+  background-color:white;
+  text-transform:none;
+}
+
+  
